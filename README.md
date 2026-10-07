@@ -1,48 +1,50 @@
-### Hi there 👋
+# Hi, I'm Ravi Raj 👋
 
-I'm **Ravi Raj** — Aspiring BTech student from Patna, India. I build websites by hand — HTML, CSS, JavaScript. No frameworks yet. Every line by hand.
+**Aspiring BTech student from Patna, India.** I build small web projects by hand — HTML, CSS, and JavaScript. No frameworks, yet.
 
-🌐 **Portfolio:** [ravirajhere-portfolio.vercel.app](https://ravirajhere-portfolio.vercel.app)
+Currently learning **React** and **DSA**. Building in public since 2024.
 
 ---
 
 ### 🔨 What I'm building
 
-- **[Author Website + Book Reader](https://github.com/ravirajhere/author-website)** — bilingual book reader with 11 chapters, audio, progress save
-  - Live: [ravirajhere-author.vercel.app](https://ravirajhere-author.vercel.app/book.html)
-- **[Snake Game](https://github.com/ravirajhere/snake-game)** — classic Nokia Snake rebuilt with HTML5 Canvas
-  - Live: [ravirajhere-snake.vercel.app](https://ravirajhere-snake.vercel.app)
-- **[CLI Portfolio](https://github.com/ravirajhere/cli-portfolio)** — terminal portfolio, zero dependencies
-  - Try: `npx ravirajhere`
-- **[Expense Splitter](https://github.com/ravirajhere/expense-splitter)** — track group expenses, calculate who owes whom
-  - Live: [expense-splitter-rj.vercel.app](https://expense-splitter-rj.vercel.app)
-- **[Weather Now](https://github.com/ravirajhere/weather-now)** — live weather via public API + geolocation
-  - Live: [ravirajhere-weather.vercel.app](https://ravirajhere-weather.vercel.app)
-- **[Password Generator](https://github.com/ravirajhere/password-tool)** — generate strong passwords, strength meter, copy to clipboard
-  - Live: [rj-password-tool.vercel.app](https://rj-password-tool.vercel.app)
+| Project | What it does | Live |
+|---------|--------------|------|
+| **[SQL Practice Tool](https://github.com/ravirajhere/sql-practice-tool)** | Practice SQL queries in your browser — real SQLite via WebAssembly, no setup | [Try it ↗](https://rj-sql-practice-tool.vercel.app) |
+| **[Weather Now](https://github.com/ravirajhere/weather-now)** | Live weather for any city with plain-language suggestions — Open-Meteo API | [Check ↗](https://ravirajhere-weather.vercel.app) |
+| **[Quiz App](https://github.com/ravirajhere/quiz-app)** | JavaScript quiz — 30s timer, instant feedback, high score in localStorage | [Play ↗](https://rj-quiz-app.vercel.app) |
+| **[Expense Splitter](https://github.com/ravirajhere/expense-splitter)** | Track group expenses and auto-settle with a greedy algorithm | [Try it ↗](https://rj-expense-spliiter.vercel.app) |
+| **[Password Generator](https://github.com/ravirajhere/password-tool)** | Generate strong passwords with a real-time strength meter | [Generate ↗](https://rj-password-tool.vercel.app) |
+
+**Portfolio:** [Link](https://ravirajhere-portfolio.vercel.app)
 
 ---
-
-### 🌱 What I'm learning
-
-- **JavaScript** — DOM, localStorage, algorithms
-- **React** — hooks, state, building small projects
-- **DSA** — C++, arrays, strings, recursion
-- **Git & GitHub** — daily commits, PR workflow
 
 ### 🛠️ Skills
 
-**Working:** HTML · CSS · JavaScript · Git · Node.js · Vercel
+**Working:** HTML · CSS · JavaScript · Git · GitHub · Vercel
 
 **Learning:** React · DSA (C++)
 
-### 💬 Reach me
-
-- **Email:** raviraj2k09@gmail.com
-- **Portfolio:** [ravirajhere-portfolio.vercel.app](https://ravirajhere-portfolio.vercel.app)
-- **GitHub:** [@ravirajhere](https://github.com/ravirajhere)
-- **LinkedIn:** [in/ravirajhere](https://linkedin.com/in/ravirajhere)
+No fake percentages. Just what I've actually built with.
 
 ---
 
-*Building by hand since 2024. Learning in public.*
+### 🎯 Currently
+
+- 📚 Learning React — hooks, state, small components
+- 🧮 Solving DSA — Striver's A2Z sheet, starting with arrays
+- 🔨 Building a React version of my Quiz App
+- 📍 Based in Patna — open to remote internships
+
+---
+
+### 💬 Reach me
+
+- **Email:** [raviraj2k09@gmail.com](mailto:raviraj2k09@gmail.com)
+- **Portfolio:** [ravirajhere-portfolio.vercel.app](https://ravirajhere-portfolio.vercel.app)
+- **LinkedIn:** [in/Ravirajhere](https://linkedin.com/in/Ravirajhere)
+
+---
+
+*Last updated: October 2026 · Actively maintained*
