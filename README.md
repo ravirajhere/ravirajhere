@@ -1,8 +1,7 @@
 # Hi, I'm Ravi Raj 👋
 
-**Aspiring BTech CSE student from Patna, India.** I build things by hand — HTML, CSS, and JavaScript. No frameworks, yet.
-
-Learning in public, improving 1% daily — one commit at a time.
+**Aspiring MERN Developer**
+I build clean, responsive things with code. Currently learning DSA in C++ and MERN Stack.
 
 ---
 
@@ -10,43 +9,36 @@ Learning in public, improving 1% daily — one commit at a time.
 
 | Project | What it does | Link |
 |---------|--------------|------|
-| **Personal Portfolio** | A clean, responsive portfolio built from scratch — HTML, CSS, JS. No frameworks. | [Live ↗](https://ravirajhere-portfolio.vercel.app) · [GitHub](https://github.com/ravirajhere) |
-| **DSA Practice Repository** | Consistently solving DSA problems with proper approach and complexity analysis. | [GitHub ↗](https://github.com/ravirajhere) |
-| **Study & Progress Tracker** | A minimal tool to track daily learning and coding consistency. | 🚧 In Progress |
+| **Personal Portfolio** | Clean, responsive portfolio built from scratch - HTML, CSS, JS | [Live ↗](https://ravirajhere-portfolio.vercel.app) · [GitHub](https://github.com/ravirajhere/personal-portfolio) |
+| **DSA in C++** | 100+ problems solved - Arrays, Strings, Linked List, Stacks with approach & complexity | [GitHub ↗](https://github.com/ravirajhere/DSA-in-CPP) |
+| **SplitWise Clone** | Expense splitting app with balance tracking - MERN learning project | [GitHub ↗](https://github.com/ravirajhere/expense-splitter) |
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
-| Skill | Status | Notes |
-|-------|--------|-------|
-| **C Programming** | Intermediate | Arrays, Functions, Pointers & Logic Building |
-| **HTML** | Known | Semantic, accessible markup |
-| **CSS** | Known | Responsive design, built without frameworks |
-| **JavaScript** | Learning | DOM, Events & Logic |
-| **Python** | Basics | Problem solving & scripting |
-| **Git & GitHub** | Known | Version control & daily commits |
-
-No fake percentages. Just what I've actually built with.
+**Languages:** C, C++, JavaScript, Python
+**Frontend:** HTML, CSS, JavaScript, React (Learning)
+**Tools:** Git, GitHub, VS Code, Vercel
+**Core:** Data Structures & Algorithms, OOPs, Problem Solving
 
 ---
 
 ### 🎯 Currently
 
-- 📚 Building my foundation in C programming and full-stack web development
-- 🧮 Exploring Data Structures & Algorithms
-- 🔨 Building a minimal study & progress tracker
-- 📍 Based in Patna — open to remote opportunities
+- 📚 2nd Sem @ VIT Vellore - Building strong DSA foundation in C++
+- 💻 Learning React.js & Node.js - MERN Stack
+- 🧮 Goal: 150+ DSA problems by end of 1st year
+- 📍 Vellore, India - Open to collabs & internships
 
 ---
 
-### 💬 Reach me
+### 🔗 Connect
 
-- **Email:** [raviraj2k09@gmail.com](mailto:raviraj2k09@gmail.com)
 - **Portfolio:** [ravirajhere-portfolio.vercel.app](https://ravirajhere-portfolio.vercel.app)
-- **GitHub:** [@ravirajhere](https://github.com/ravirajhere)
 - **LinkedIn:** [in/ravirajhere](https://linkedin.com/in/ravirajhere)
+- **LeetCode:** [leetcode.com/u/ravirajhere](https://leetcode.com)
 
 ---
 
-*Built with ❤️ & Curiosity*
+*Improving 1% daily - one commit at a time.*
