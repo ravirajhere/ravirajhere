@@ -26,10 +26,9 @@ I build clean, responsive things with code. Currently learning DSA in C++ and ME
 
 ### 🎯 Currently
 
-- 📚 2nd Sem @ VIT Vellore - Building strong DSA foundation in C++
 - 💻 Learning React.js & Node.js - MERN Stack
 - 🧮 Goal: 150+ DSA problems by end of 1st year
-- 📍 Vellore, India - Open to collabs & internships
+- 📍 Delhi, India - Open to collabs & internships
 
 ---
 
