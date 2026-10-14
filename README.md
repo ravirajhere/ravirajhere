@@ -9,7 +9,7 @@ I build clean, responsive things with code. Currently learning DSA in C++ and ME
 
 | Project | What it does | Link |
 |---------|--------------|------|
-| **Personal Portfolio** | Clean, responsive portfolio built from scratch - HTML, CSS, JS | [Live ↗](https://ravirajhere-portfolio.vercel.app) · [GitHub](https://github.com/ravirajhere/personal-portfolio) |
+| **Personal Portfolio** | Clean, responsive portfolio built from scratch - HTML, CSS, JS | [Live ↗](https://ravirajhere-portfolio.vercel.app) · [GitHub](https://github.com/ravirajhere/web-portfolio) |
 | **DSA in C++** | 100+ problems solved - Arrays, Strings, Linked List, Stacks with approach & complexity | [GitHub ↗](https://github.com/ravirajhere/DSA-in-CPP) |
 | **SplitWise Clone** | Expense splitting app with balance tracking - MERN learning project | [GitHub ↗](https://github.com/ravirajhere/expense-splitter) |
 
